@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This project is easy, I could do it while pulling an all-nighter, honestly the hardest part was centering the div, it seem im always leaning how to do that all over again.
+This project is easy. I could do it while pulling an all-nighter. Honestly, the hardest part was centering the div. It seems like I'm always relearning how to do that all over again.
 
 ### Screenshot
 
@@ -27,12 +27,12 @@ This project is easy, I could do it while pulling an all-nighter, honestly the h
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://your-solution-url.com)
+- [Live Site](https://adrianesantosdev.github.io/qr-code-challenge/src/)
 
 ## My process
 
-First i created the html and set up the divs and text, then use the colors the create vars in css file, got a little confused with the font size.
+First, I created the HTML and set up the divs and text. Then, I used colors to create variables in the CSS file. I did stumble a bit with the font size, though.
 
 ### Built with
 
@@ -44,8 +44,9 @@ First i created the html and set up the divs and text, then use the colors the c
 
 How to center a div (again)
 
-## Author
+
+### Im going to update the links soon
+### Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@AdrianeSantosDev](https://www.frontendmentor.io/profile/yourusername)
