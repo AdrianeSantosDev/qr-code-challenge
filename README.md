@@ -25,7 +25,7 @@ This project is easy. I could do it while pulling an all-nighter. Honestly, the 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/profile/AdrianeSantosDev)
 
 ## My process
 
@@ -45,6 +45,5 @@ How to center a div (again)
 ### Im going to update the links soon
 ### Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here]((https://www.frontendmentor.io/profile/AdrianeSantosDev](https://www.frontendmentor.io/profile/AdrianeSantosDev)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
