@@ -24,8 +24,8 @@ This project is easy. I could do it while pulling an all-nighter. Honestly, the 
 ### Im going to update the links soon
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/profile/AdrianeSantosDev)
+- [Solution]:(https://your-solution-url.com)
+- [Live Site]:(https://adrianesantosdev.github.io/qr-code-challenge/src/)
 
 ## My process
 
@@ -45,5 +45,5 @@ How to center a div (again)
 ### Im going to update the links soon
 ### Author
 
-- Website - [Add your name here]((https://www.frontendmentor.io/profile/AdrianeSantosDev](https://www.frontendmentor.io/profile/AdrianeSantosDev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@AdrianeSantosDev](https://www.frontendmentor.io/profile/yourusername)
