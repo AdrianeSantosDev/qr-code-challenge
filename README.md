@@ -24,8 +24,8 @@ This project is easy. I could do it while pulling an all-nighter. Honestly, the 
 ### Im going to update the links soon
 ### Links
 
-- [Solution]:(https://your-solution-url.com)
-- [Live Site]:(https://adrianesantosdev.github.io/qr-code-challenge/src/)
+- [Solution](https://your-solution-url.com)
+- [Live Site](https://adrianesantosdev.github.io/qr-code-challenge/src/)
 
 ## My process
 
