@@ -27,7 +27,7 @@ This project is easy. I could do it while pulling an all-nighter. Honestly, the 
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/qr-code-challenge-just-htmlcss-72x7HRy9NF)
 - [Live Site](https://adrianesantosdev.github.io/qr-code-challenge/src/)
 
 ## My process
