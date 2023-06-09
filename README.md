@@ -23,6 +23,8 @@ This project is easy, I could do it while pulling an all-nighter, honestly the h
 
 ### Screenshot
 
+![](./images/screenshot.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
