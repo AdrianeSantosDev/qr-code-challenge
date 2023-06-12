@@ -44,4 +44,4 @@ How to center a div (again)
 ### Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@AdrianeSantosDev](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AdrianeSantosDev](https://www.frontendmentor.io/profile/AdrianeSantosDev)
