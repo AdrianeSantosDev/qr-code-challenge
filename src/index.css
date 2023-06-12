@@ -18,7 +18,7 @@ html, body {
 }
 
 
-.block {
+main {
     height: 530px;
     width: 350px;
     background-color: var(--white);
@@ -30,11 +30,11 @@ html, body {
     align-items: center;
 }
 
-.text {
+section {
     padding-inline: 2rem;
 }
 
-span {
+h1 {
     font-size: 25px;
     font-weight: 700;
     color: var(--dark-blue);
